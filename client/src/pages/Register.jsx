@@ -189,7 +189,7 @@ const Register = () => {
             </p>
           </div>
         </form>
-        <div className="-left-36 bottom-0 absolute w-72 z-10 max-md:-left-10 max-md:w-56">
+        <div className="-left-36 bottom-0 absolute w-72 z-10 max-md:-left-10 max-md:w-56 max-sm:hidden">
           <img src={LoginMan} alt="" />
         </div>
       </div>
