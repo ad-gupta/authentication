@@ -52,3 +52,11 @@ JWT_SECRET=" "
 ```
 The backend server will run on http://localhost:8000
 The frontend will be available at http://localhost:5173
+
+## Preview Recording
+
+https://github.com/user-attachments/assets/c14e80ad-6265-4bc8-8c28-073879415a15
+
+
+
+
